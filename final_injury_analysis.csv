@@ -1,0 +1,489 @@
+Name,Team Name,Age,age_group,Position,Injury,injury_month_name,injury_year,avg_before,avg_after,performance_drop,performance_change,recovery_days,injury_count,injury_month_num
+Jamaal Lascelles,Newcastle,26,Prime,Center Back,Knee Injury,November,2019,6.43,6.67,-0.23,Improved,65.0,1,11.0
+Fabian Schär,Newcastle,28,Prime,Center Back,Hamstring Strain,January,2020,6.07,6.5,-0.43,Improved,15.0,1,1.0
+Ciaran Clark,Newcastle,30,Senior,Center Back,Calf Injury,December,2019,6.27,6.57,-0.3,Improved,32.0,1,12.0
+Jetro Willems,Newcastle,26,Prime,Left Back,Knee Injury,September,2019,6.5,6.8,-0.3,Improved,13.0,1,9.0
+Jetro Willems,Newcastle,26,Prime,Left Back,Knee Injury,December,2019,6.0,6.2,-0.2,Improved,10.0,1,12.0
+DeAndre Yedlin,Newcastle,26,Prime,Right Back,Groin Problems,April,2019,,6.27,,No Change,153.0,1,4.0
+DeAndre Yedlin,Newcastle,26,Prime,Right Back,Hip Injury,November,2019,6.17,5.8,0.37,Dropped,13.0,1,11.0
+Emil Krafth,Newcastle,25,Prime,Right Back,Ankle Injury,January,2020,6.15,6.25,-0.1,Improved,151.0,1,1.0
+Javier Manquillo,Newcastle,26,Prime,Right Back,Hamstring Strain,January,2020,5.65,6.43,-0.78,Improved,57.0,1,1.0
+Sean Longstaff,Newcastle,22,Young,Central Midfielder,Ankle Injury,September,2019,6.53,6.47,0.07,Dropped,27.0,1,9.0
+Jonjo Shelvey,Newcastle,28,Prime,Central Midfielder,Hamstring Injury,September,2019,6.25,7.65,-1.4,Improved,13.0,1,9.0
+Jonjo Shelvey,Newcastle,28,Prime,Central Midfielder,Calf Injury,December,2019,7.5,6.2,1.3,Dropped,11.0,1,12.0
+Jonjo Shelvey,Newcastle,28,Prime,Central Midfielder,Hamstring Strain,January,2020,6.45,6.77,-0.32,Improved,41.0,1,1.0
+Matt Ritchie,Newcastle,30,Senior,Right Midfielder,Ankle Injury,August,2019,6.63,6.6,0.03,Dropped,128.0,1,8.0
+Allan Saint-Maximin,Newcastle,23,Prime,Left Winger,Hamstring Strain,September,2019,6.5,6.1,0.4,Dropped,6.0,1,9.0
+Miguel Almirón,Newcastle,26,Prime,Right Winger,Hamstring Injury,December,2019,6.37,6.73,-0.37,Improved,11.0,1,12.0
+Dwight Gayle,Newcastle,30,Senior,Center Forward,Hamstring Strain,January,2020,5.93,5.67,0.27,Dropped,8.0,1,1.0
+Andy Carroll,Newcastle,31,Senior,Center Forward,Groin Injury,October,2019,5.8,6.3,-0.5,Improved,12.0,1,10.0
+Andy Carroll,Newcastle,31,Senior,Center Forward,Bruised Ribs,November,2019,6.3,6.43,-0.13,Improved,7.0,1,11.0
+Andy Carroll,Newcastle,31,Senior,Center Forward,Knock,January,2020,,6.4,,No Change,152.0,1,1.0
+Andy Carroll,Newcastle,31,Senior,Center Forward,Muscle Injury,July,2020,6.4,5.4,1.0,Dropped,11.0,1,7.0
+Jamaal Lascelles,Newcastle,27,Prime,Center Back,Hip Injury,September,2020,6.17,6.03,0.13,Dropped,18.0,1,9.0
+Jamaal Lascelles,Newcastle,27,Prime,Center Back,Muscle Fatigue,November,2020,6.27,5.77,0.5,Dropped,56.0,1,11.0
+Jamaal Lascelles,Newcastle,27,Prime,Center Back,Hamstring Strain,January,2021,5.97,6.67,-0.7,Improved,14.0,1,1.0
+Fabian Schär,Newcastle,29,Prime,Center Back,Virus,November,2020,5.95,6.8,-0.85,Improved,26.0,1,11.0
+Ciaran Clark,Newcastle,31,Senior,Center Back,Calf Injury,January,2021,6.13,6.35,-0.22,Improved,10.0,1,1.0
+Ciaran Clark,Newcastle,31,Senior,Center Back,Knock,February,2021,6.35,6.13,0.22,Dropped,10.0,1,2.0
+Javier Manquillo,Newcastle,27,Prime,Right Back,Ankle Injury,February,2021,6.27,6.2,0.07,Dropped,31.0,1,2.0
+Isaac Hayden,Newcastle,26,Prime,Defensive Midfielder,Coronavirus,November,2020,6.3,6.67,-0.37,Improved,16.0,1,11.0
+Jonjo Shelvey,Newcastle,29,Prime,Central Midfielder,Groin Injury,October,2020,6.57,6.6,-0.03,Improved,32.0,1,10.0
+Jonjo Shelvey,Newcastle,29,Prime,Central Midfielder,Hamstring Injury,January,2021,5.8,6.33,-0.53,Improved,13.0,1,1.0
+Matt Ritchie,Newcastle,31,Senior,Right Midfielder,Shoulder Injury,September,2020,6.0,5.9,0.1,Dropped,59.0,1,9.0
+Allan Saint-Maximin,Newcastle,24,Prime,Left Winger,Ankle Injury,September,2020,6.0,7.37,-1.37,Improved,10.0,1,9.0
+Allan Saint-Maximin,Newcastle,24,Prime,Left Winger,Calf Injury,November,2020,6.07,5.73,0.33,Dropped,61.0,1,11.0
+Allan Saint-Maximin,Newcastle,24,Prime,Left Winger,Groin Injury,February,2021,6.83,6.53,0.3,Dropped,35.0,1,2.0
+Miguel Almirón,Newcastle,27,Prime,Right Winger,Knee Injury,February,2021,6.0,6.13,-0.13,Improved,15.0,1,2.0
+Dwight Gayle,Newcastle,31,Senior,Center Forward,Inner Ligament Injury,September,2020,,7.15,,No Change,97.0,1,9.0
+Jamal Lewis,Newcastle,23,Prime,Left Back,Knee Problems,December,2020,5.9,5.67,0.23,Dropped,15.0,1,12.0
+Ryan Fraser,Newcastle,27,Prime,Left Winger,Hamstring Injury,November,2020,5.5,7.1,-1.6,Improved,43.0,1,11.0
+Callum Wilson,Newcastle,29,Prime,Center Forward,Hamstring Strain,November,2020,6.23,6.6,-0.37,Improved,19.0,1,11.0
+Callum Wilson,Newcastle,29,Prime,Center Forward,Hamstring Injury,February,2021,7.17,5.7,1.47,Dropped,56.0,1,2.0
+Paul Dummett,Newcastle,30,Senior,Center Back,Calf Injury,July,2021,,6.5,,No Change,157.0,1,7.0
+Joelinton,Newcastle,25,Prime,Central Midfielder,Knock,March,2022,6.9,6.1,0.8,Dropped,8.0,1,3.0
+Jonjo Shelvey,Newcastle,30,Senior,Central Midfielder,Calf Injury,August,2021,7.0,6.0,1.0,Dropped,61.0,1,8.0
+Jonjo Shelvey,Newcastle,30,Senior,Central Midfielder,Muscle Injury,December,2021,6.67,7.67,-1.0,Improved,9.0,1,12.0
+Allan Saint-Maximin,Newcastle,25,Prime,Left Winger,Ill & Knock,February,2022,7.33,6.0,1.33,Dropped,26.0,1,2.0
+Joe Willock,Newcastle,22,Young,Central Midfielder,Coronavirus,December,2021,5.65,6.6,-0.95,Improved,10.0,1,12.0
+Joe Willock,Newcastle,22,Young,Central Midfielder,Knee Injury,April,2022,6.43,6.0,0.43,Dropped,6.0,1,4.0
+Callum Wilson,Newcastle,30,Senior,Center Forward,Hamstring Injury,August,2021,6.33,6.13,0.2,Dropped,48.0,1,8.0
+Callum Wilson,Newcastle,30,Senior,Center Forward,Calf Injury,December,2021,5.65,6.6,-0.95,Improved,125.0,1,12.0
+Kieran Trippier,Newcastle,31,Senior,Right Back,Metatarsal Fracture,February,2022,7.27,6.3,0.97,Dropped,77.0,1,2.0
+Fabian Schär,Newcastle,31,Senior,Center Back,Concussion,February,2023,6.2,6.63,-0.43,Improved,6.0,1,2.0
+Sean Longstaff,Newcastle,25,Prime,Central Midfielder,Outer Ligament Problems,April,2023,6.43,6.3,0.13,Dropped,23.0,1,4.0
+Miguel Almirón,Newcastle,29,Prime,Right Winger,Thigh Problems,March,2023,5.85,5.9,-0.05,Improved,31.0,1,3.0
+Callum Wilson,Newcastle,31,Senior,Center Forward,Hamstring Injury,August,2022,6.27,6.23,0.03,Dropped,35.0,1,8.0
+Bruno Guimarães,Newcastle,25,Prime,Defensive Midfielder,Hamstring Injury,August,2022,6.8,7.8,-1.0,Improved,22.0,1,8.0
+Bruno Guimarães,Newcastle,25,Prime,Defensive Midfielder,Ankle Injury,February,2023,6.5,6.6,-0.1,Improved,19.0,1,2.0
+Alexander Isak,Newcastle,23,Prime,Center Forward,Thigh Problems,September,2022,6.77,6.5,0.27,Dropped,,1,9.0
+Fabian Schär,Newcastle,32,Senior,Center Back,Hamstring Injury,April,2024,6.5,5.7,0.8,Dropped,18.0,1,4.0
+Joelinton,Newcastle,27,Prime,Central Midfielder,Hamstring Injury,September,2023,6.37,7.03,-0.67,Improved,32.0,1,9.0
+Joelinton,Newcastle,27,Prime,Central Midfielder,Hamstring Injury,December,2023,6.53,6.6,-0.07,Improved,9.0,1,12.0
+Sean Longstaff,Newcastle,26,Prime,Central Midfielder,Ankle Injury,November,2023,6.3,6.4,-0.1,Improved,27.0,1,11.0
+Joe Willock,Newcastle,24,Prime,Central Midfielder,Hamstring Injury,August,2023,,6.4,,No Change,83.0,1,8.0
+Joe Willock,Newcastle,24,Prime,Central Midfielder,Achilles Tendon Problems,November,2023,6.4,6.5,-0.1,Improved,91.0,1,11.0
+Callum Wilson,Newcastle,32,Senior,Center Forward,Hamstring Injury,September,2023,7.0,7.2,-0.2,Improved,13.0,1,9.0
+Callum Wilson,Newcastle,32,Senior,Center Forward,Hamstring Injury,November,2023,6.7,6.3,0.4,Dropped,31.0,1,11.0
+Callum Wilson,Newcastle,32,Senior,Center Forward,Calf Injury,December,2023,6.3,5.7,0.6,Dropped,37.0,1,12.0
+Callum Wilson,Newcastle,32,Senior,Center Forward,Chest Injury,February,2024,5.7,7.1,-1.4,Improved,64.0,1,2.0
+Dan Burn,Newcastle,32,Senior,Center Back,Back Injury,November,2023,6.4,6.97,-0.57,Improved,37.0,1,11.0
+Kieran Trippier,Newcastle,33,Senior,Right Back,Groin Injury,December,2023,6.9,7.2,-0.3,Improved,10.0,1,12.0
+Kieran Trippier,Newcastle,33,Senior,Right Back,Calf Injury,March,2024,5.8,6.0,-0.2,Improved,69.0,1,3.0
+Sven Botman,Newcastle,24,Prime,Center Back,Ankle Injury,August,2023,6.83,7.8,-0.97,Improved,19.0,1,8.0
+Sven Botman,Newcastle,24,Prime,Center Back,Knee Injury,September,2023,7.8,5.7,2.1,Dropped,78.0,1,9.0
+Lewis Miley,Newcastle,18,Young,Central Midfielder,Fever,October,2023,,6.93,,No Change,16.0,1,10.0
+Alexander Isak,Newcastle,24,Prime,Center Forward,Groin Injury,October,2023,7.8,6.23,1.57,Dropped,30.0,1,10.0
+Alexander Isak,Newcastle,24,Prime,Center Forward,Groin Injury,January,2024,6.87,6.57,0.3,Dropped,24.0,1,1.0
+Tino Livramento,Newcastle,21,Young,Right Back,Ankle Injury,March,2024,5.95,6.8,-0.85,Improved,32.0,1,3.0
+Harvey Barnes,Newcastle,26,Prime,Left Winger,Foot Injury,September,2023,6.15,6.4,-0.25,Improved,130.0,1,9.0
+Harvey Barnes,Newcastle,26,Prime,Left Winger,Hamstring Injury,March,2024,6.4,7.9,-1.5,Improved,28.0,1,3.0
+Fabian Schär,Newcastle,32,Senior,Center Back,Concussion,February,2023,5.93,6.63,-0.7,Improved,6.0,1,2.0
+Nick Pope,Newcastle,32,Senior,Goalkeeper,Shoulder Injury,December,2023,6.9,6.1,0.8,Dropped,152.0,1,12.0
+Sead Kolasinac,Arsenal,27,Prime,Center Back,Hamstring Injury,November,2019,6.8,6.5,0.3,Dropped,13.0,1,11.0
+Sead Kolasinac,Arsenal,27,Prime,Center Back,Arm Injury,February,2020,5.7,6.7,-1.0,Improved,112.0,1,2.0
+Sead Kolasinac,Arsenal,27,Prime,Center Back,Muscle Strain,January,2020,6.3,5.7,0.6,Dropped,31.0,1,1.0
+Sead Kolasinac,Arsenal,27,Prime,Center Back,Ankle Injury,December,2019,6.27,6.3,-0.03,Improved,14.0,1,12.0
+Sokratis Papastathopoulos,Arsenal,32,Senior,Center Back,Concussion,December,2019,6.37,7.05,-0.68,Improved,3.0,1,12.0
+Shkodran Mustafi,Arsenal,28,Prime,Center Back,Muscle Strain,February,2020,7.2,5.97,1.23,Dropped,15.0,1,2.0
+Kieran Tierney,Arsenal,23,Prime,Left Back,Shoulder Injury,December,2019,6.0,6.25,-0.25,Improved,96.0,1,12.0
+Kieran Tierney,Arsenal,23,Prime,Left Back,Groin Injury,September,2020,7.1,6.5,0.6,Dropped,14.0,1,9.0
+Kieran Tierney,Arsenal,23,Prime,Left Back,Knee Injury,January,2021,7.83,6.5,1.33,Dropped,28.0,1,1.0
+Kieran Tierney,Arsenal,23,Prime,Left Back,Knee Injury,April,2021,6.7,6.4,0.3,Dropped,32.0,1,4.0
+Héctor Bellerín,Arsenal,25,Prime,Right Back,Hamstring Injury,December,2019,6.07,7.03,-0.97,Improved,39.0,1,12.0
+Cédric Soares,Arsenal,28,Prime,Right Back,Broken Nose And Knee Injury,January,2020,,6.1,,No Change,157.0,1,1.0
+Lucas Torreira,Arsenal,24,Prime,Defensive Midfielder,Ankle Injury,March,2020,6.2,6.0,0.2,Dropped,122.0,1,3.0
+Granit Xhaka,Arsenal,27,Prime,Defensive Midfielder,Back Injury,August,2019,7.1,6.7,0.4,Dropped,11.0,1,8.0
+Granit Xhaka,Arsenal,27,Prime,Defensive Midfielder,Concussion,December,2019,6.43,7.1,-0.67,Improved,8.0,1,12.0
+Granit Xhaka,Arsenal,27,Prime,Defensive Midfielder,Ankle Injury,June,2020,6.57,6.87,-0.3,Improved,6.0,1,6.0
+Mesut Özil,Arsenal,31,Senior,Attacking Midfielder,Ankle Injury,December,2019,6.47,6.07,0.4,Dropped,10.0,1,12.0
+Gabriel Martinelli,Arsenal,19,Young,Left Winger,Hamstring Injury,December,2019,6.57,6.33,0.23,Dropped,14.0,1,12.0
+Nicolas Pépé,Arsenal,25,Prime,Right Winger,Muscle Fatigue,July,2020,6.45,6.0,0.45,Dropped,4.0,1,7.0
+Reiss Nelson,Arsenal,20,Young,Right Winger,Hamstring Injury,January,2020,5.75,6.0,-0.25,Improved,46.0,1,1.0
+Alexandre Lacazette,Arsenal,29,Prime,Center Forward,Ankle Injury,September,2019,7.45,6.5,0.95,Dropped,48.0,1,9.0
+Shkodran Mustafi,Arsenal,29,Prime,Center Back,Muscle Injury,July,2020,6.6,7.0,-0.4,Improved,97.0,1,7.0
+David Luiz,Arsenal,33,Senior,Center Back,Hamstring Injury,October,2020,6.7,5.3,1.4,Dropped,8.0,1,10.0
+David Luiz,Arsenal,33,Senior,Center Back,Neck Injury,September,2020,,5.95,,No Change,7.0,1,9.0
+David Luiz,Arsenal,33,Senior,Center Back,Ill,December,2020,6.35,6.83,-0.48,Improved,7.0,1,12.0
+David Luiz,Arsenal,33,Senior,Center Back,Head Injury,December,2020,5.3,6.35,-1.05,Improved,7.0,1,12.0
+Rob Holding,Arsenal,25,Prime,Center Back,Hamstring Injury,October,2020,6.67,6.57,0.1,Dropped,60.0,1,10.0
+Pablo Marí,Arsenal,27,Prime,Center Back,Calf Injury,January,2021,6.67,6.33,0.33,Dropped,25.0,1,1.0
+Granit Xhaka,Arsenal,28,Prime,Defensive Midfielder,Ill,April,2021,6.7,7.23,-0.53,Improved,3.0,1,4.0
+Granit Xhaka,Arsenal,28,Prime,Defensive Midfielder,Groin Injury,May,2021,7.57,7.6,-0.03,Improved,10.0,1,5.0
+Dani Ceballos,Arsenal,24,Prime,Central Midfielder,Calf Injury,January,2021,7.8,6.9,0.9,Dropped,17.0,1,1.0
+Gabriel Martinelli,Arsenal,20,Young,Left Winger,Ankle Injury,January,2021,5.6,6.1,-0.5,Improved,8.0,1,1.0
+Bukayo Saka,Arsenal,19,Young,Right Winger,Hip Problems,January,2021,7.73,6.83,0.9,Dropped,3.0,1,1.0
+Pierre-Emerick Aubameyang,Arsenal,32,Senior,Center Forward,Calf Injury,December,2020,6.13,6.4,-0.27,Improved,11.0,1,12.0
+Pierre-Emerick Aubameyang,Arsenal,32,Senior,Center Forward,Knock,January,2021,7.0,9.0,-2.0,Improved,14.0,1,1.0
+Pierre-Emerick Aubameyang,Arsenal,32,Senior,Center Forward,Malaria,April,2021,6.23,6.4,-0.17,Improved,18.0,1,4.0
+Thomas Partey,Arsenal,28,Prime,Defensive Midfielder,Muscle Injury,November,2020,6.93,6.3,0.63,Dropped,24.0,1,11.0
+Thomas Partey,Arsenal,28,Prime,Defensive Midfielder,Hip Injury,December,2020,6.3,7.3,-1.0,Improved,39.0,1,12.0
+Thomas Partey,Arsenal,28,Prime,Defensive Midfielder,Hamstring Injury,February,2021,6.5,6.55,-0.05,Improved,18.0,1,2.0
+Mohamed Elneny,Arsenal,28,Prime,Defensive Midfielder,Virus,November,2020,6.6,6.33,0.27,Dropped,12.0,1,11.0
+Martin Ødegaard,Arsenal,22,Young,Attacking Midfielder,Ankle Injury,April,2021,7.1,6.35,0.75,Dropped,15.0,1,4.0
+Willian,Arsenal,32,Senior,Left Winger,Calf Injury,November,2020,5.9,6.17,-0.27,Improved,5.0,1,11.0
+Willian,Arsenal,32,Senior,Left Winger,Ill,December,2020,6.9,6.15,0.75,Dropped,7.0,1,12.0
+Granit Xhaka,Arsenal,29,Prime,Defensive Midfielder,Inner Ligament Injury,September,2021,7.1,6.53,0.57,Dropped,69.0,1,9.0
+Pierre-Emerick Aubameyang,Arsenal,33,Senior,Center Forward,Coronavirus,August,2021,,6.1,,No Change,14.0,1,8.0
+Gabriel Magalhães,Arsenal,24,Prime,Center Back,Knee Injury,July,2021,,7.13,,No Change,50.0,1,7.0
+Thomas Partey,Arsenal,29,Prime,Defensive Midfielder,Ankle Injury,July,2021,,6.77,,No Change,32.0,1,7.0
+Ben White,Arsenal,24,Prime,Right Back,Hamstring Injury,April,2022,6.4,5.3,1.1,Dropped,20.0,1,4.0
+Takehiro Tomiyasu,Arsenal,23,Prime,Right Back,Calf Injury,February,2022,6.4,6.6,-0.2,Improved,60.0,1,2.0
+Eddie Nketiah,Arsenal,24,Prime,Center Forward,Ankle Injury,March,2023,7.0,6.0,1.0,Dropped,42.0,1,3.0
+Thomas Partey,Arsenal,30,Senior,Defensive Midfielder,Thigh Problems,August,2022,7.13,7.37,-0.23,Improved,21.0,1,8.0
+Oleksandr Zinchenko,Arsenal,26,Prime,Left Back,Knee Problems And Calf Injury,August,2022,7.2,6.9,0.3,Dropped,67.0,1,8.0
+Oleksandr Zinchenko,Arsenal,26,Prime,Left Back,Unknown Injury,April,2023,6.7,6.2,0.5,Dropped,3.0,1,4.0
+Gabriel Jesus,Arsenal,26,Prime,Center Forward,Knee Injury,December,2022,7.83,9.0,-1.17,Improved,99.0,1,12.0
+Gabriel Martinelli,Arsenal,23,Prime,Left Winger,Hamstring Injury,September,2023,6.63,6.9,-0.27,Improved,20.0,1,9.0
+Gabriel Martinelli,Arsenal,23,Prime,Left Winger,Foot Injury,March,2024,7.33,8.0,-0.67,Improved,24.0,1,3.0
+Bukayo Saka,Arsenal,22,Young,Right Winger,Unknown Injury,March,2024,6.33,7.13,-0.8,Improved,16.0,1,3.0
+Bukayo Saka,Arsenal,22,Young,Right Winger,Thigh Problems,October,2023,7.5,6.73,0.77,Dropped,18.0,1,10.0
+Thomas Partey,Arsenal,31,Senior,Defensive Midfielder,Groin Injury,September,2023,7.37,6.0,1.37,Dropped,31.0,1,9.0
+Martin Ødegaard,Arsenal,25,Prime,Attacking Midfielder,Hip Problems,November,2023,7.07,7.73,-0.67,Improved,19.0,1,11.0
+Ben White,Arsenal,26,Prime,Right Back,Knee Injury,November,2023,6.43,7.2,-0.77,Improved,11.0,1,11.0
+Oleksandr Zinchenko,Arsenal,27,Prime,Left Back,Calf Problems,December,2023,7.03,7.27,-0.23,Improved,19.0,1,12.0
+Gabriel Jesus,Arsenal,27,Prime,Center Forward,Hamstring Injury,October,2023,6.3,6.97,-0.67,Improved,26.0,1,10.0
+Gabriel Jesus,Arsenal,27,Prime,Center Forward,Knee Injury,January,2024,7.7,6.6,1.1,Dropped,13.0,1,1.0
+Tyrone Mings,Aston Villa,28,Prime,Center Back,Muscle Strain,December,2019,5.93,6.07,-0.13,Improved,22.0,1,12.0
+Anwar El Ghazi,Aston Villa,24,Prime,Right Winger,Knee Injury,December,2019,6.33,5.87,0.47,Dropped,5.0,1,12.0
+Matt Targett,Aston Villa,24,Prime,Left Back,Muscle Strain,June,2020,6.67,6.43,0.23,Dropped,13.0,1,6.0
+Matt Targett,Aston Villa,24,Prime,Left Back,Hamstring Injury,December,2019,6.3,6.63,-0.33,Improved,17.0,1,12.0
+Matt Targett,Aston Villa,24,Prime,Left Back,Hamstring Injury,August,2019,,7.47,,No Change,26.0,1,8.0
+Jack Grealish,Aston Villa,24,Prime,Left Winger,Calf Injury,October,2019,7.83,7.63,0.2,Dropped,28.0,1,10.0
+Björn Engels,Aston Villa,25,Prime,Center Back,Groin Injury,November,2019,5.53,5.5,0.03,Dropped,27.0,1,11.0
+Tom Heaton,Aston Villa,34,Senior,Goalkeeper,Calf Strain,November,2019,6.43,7.23,-0.8,Improved,15.0,1,11.0
+Matty Cash,Aston Villa,24,Prime,Right Back,Hamstring Injury,February,2021,6.07,6.25,-0.18,Improved,,1,2.0
+Ezri Konsa,Aston Villa,23,Prime,Center Back,Bruise,December,2020,6.7,6.0,0.7,Dropped,12.0,1,12.0
+Bertrand Traoré,Aston Villa,24,Prime,Right Winger,Bruised Ribs,November,2020,5.2,6.2,-1.0,Improved,18.0,1,11.0
+Douglas Luiz,Aston Villa,23,Prime,Central Midfielder,Hamstring Injury,October,2020,6.27,6.7,-0.43,Improved,31.0,1,10.0
+Ross Barkley,Aston Villa,27,Prime,Central Midfielder,Hamstring Injury,November,2020,6.97,6.23,0.73,Dropped,59.0,1,11.0
+Lucas Digne,Aston Villa,28,Prime,Left Back,Shoulder Injury,April,2022,6.35,6.47,-0.12,Improved,16.0,1,4.0
+Lucas Digne,Aston Villa,28,Prime,Left Back,Hamstring Injury,March,2022,7.2,6.3,0.9,Dropped,7.0,1,3.0
+Morgan Sanson,Aston Villa,27,Prime,Central Midfielder,Coronavirus,December,2021,,6.0,,No Change,13.0,1,12.0
+Matty Cash,Aston Villa,25,Prime,Right Back,Calf Injury,March,2023,6.8,6.2,0.6,Dropped,35.0,1,3.0
+Matty Cash,Aston Villa,25,Prime,Right Back,Tendon Rupture,September,2022,6.0,6.45,-0.45,Improved,25.0,1,9.0
+John McGinn,Aston Villa,28,Prime,Central Midfielder,Hamstring Strain,January,2023,6.1,6.7,-0.6,Improved,34.0,1,1.0
+Lucas Digne,Aston Villa,29,Prime,Left Back,Shoulder Injury,January,2023,6.33,5.85,0.48,Dropped,20.0,1,1.0
+Lucas Digne,Aston Villa,29,Prime,Left Back,Ankle Injury,September,2022,6.23,6.45,-0.22,Improved,40.0,1,9.0
+acob Ramsey,Aston Villa,22,Young,Attacking Midfielder,Hamstring Injury,November,2022,6.4,6.23,0.17,Dropped,46.0,1,11.0
+Boubacar Kamara,Aston Villa,23,Prime,Defensive Midfielder,Knee Injury,September,2022,6.4,6.15,0.25,Dropped,46.0,1,9.0
+Matty Cash,Aston Villa,26,Prime,Right Back,Hamstring Injury,March,2024,6.0,5.5,0.5,Dropped,22.0,1,3.0
+Matty Cash,Aston Villa,26,Prime,Right Back,Ill,December,2023,6.7,4.5,2.2,Dropped,2.0,1,12.0
+Diego Carlos,Aston Villa,31,Senior,Center Back,Hamstring Injury,February,2024,6.7,6.7,0.0,No Change,20.0,1,2.0
+Ezri Konsa,Aston Villa,26,Prime,Center Back,Knee Injury,February,2024,6.43,6.4,0.03,Dropped,26.0,1,2.0
+Youri Tielemans,Aston Villa,27,Prime,Central Midfielder,Calf Injury,December,2023,6.6,6.6,0.0,Dropped,30.0,1,12.0
+Lucas Digne,Aston Villa,30,Senior,Left Back,Hamstring Injury,December,2023,6.35,6.3,0.05,Dropped,42.0,1,12.0
+Pau Torres,Aston Villa,27,Prime,Center Back,Ankle Injury,January,2024,,6.3,,No Change,30.0,1,1.0
+Pau Torres,Aston Villa,27,Prime,Center Back,Unknown Injury,December,2023,6.2,6.95,-0.75,Improved,5.0,1,12.0
+Jhon Durán,Aston Villa,20,Young,Center Forward,Unknown Injury,August,2023,,6.0,,No Change,2.0,1,8.0
+Jhon Durán,Aston Villa,20,Young,Center Forward,Hamstring Injury,January,2024,,5.3,,No Change,43.0,1,1.0
+Jacob Ramsey,Aston Villa,23,Prime,Attacking Midfielder,Hamstring Injury,January,2024,6.0,6.3,-0.3,Improved,16.0,1,1.0
+Harry Maguire,Man United,28,Prime,Center Back,Calf Injury,September,2021,7.43,5.7,1.73,Dropped,20.0,1,9.0
+Harry Maguire,Man United,28,Prime,Center Back,Chest Injury,January,2022,6.3,6.6,-0.3,Improved,13.0,1,1.0
+Harry Maguire,Man United,28,Prime,Center Back,Knee Problems,April,2022,5.97,7.0,-1.03,Improved,7.0,1,4.0
+Harry Maguire,Man United,29,Prime,Center Back,Hamstring Injury,September,2022,6.05,5.9,0.15,Dropped,29.0,1,9.0
+Victor Lindelof,Man United,25,Prime,Center Back,Ill,January,2020,6.27,6.27,0.0,Dropped,5.0,1,1.0
+Victor Lindelof,Man United,26,Prime,Center Back,Back Injury,December,2020,6.67,6.97,-0.3,Improved,10.0,1,12.0
+Victor Lindelof,Man United,26,Prime,Center Back,Coronavirus,December,2021,6.6,6.6,0.0,No Change,10.0,1,12.0
+Victor Lindelof,Man United,27,Prime,Center Back,Ill,January,2022,6.6,6.0,0.6,Dropped,7.0,1,1.0
+Victor Lindelof,Man United,28,Prime,Center Back,Back Problems,August,2022,,6.8,,No Change,24.0,1,8.0
+Eric Bailly,Man United,26,Prime,Center Back,Knee Surgery,July,2019,,1.7,,No Change,169.0,1,7.0
+Eric Bailly,Man United,27,Prime,Center Back,Muscle Injury,October,2020,4.75,6.83,-2.08,Improved,44.0,1,10.0
+Eric Bailly,Man United,27,Prime,Center Back,Knock,January,2021,5.25,6.8,-1.55,Improved,63.0,1,1.0
+Eric Bailly,Man United,27,Prime,Center Back,Coronavirus,March,2021,6.8,5.35,1.45,Dropped,20.0,1,3.0
+Luke Shaw,Man United,25,Prime,Left Back,Ankle Injury,July,2020,5.87,5.87,0.0,No Change,59.0,1,7.0
+Luke Shaw,Man United,25,Prime,Left Back,Hamstring Injury,November,2020,6.8,7.15,-0.35,Improved,30.0,1,11.0
+Luke Shaw,Man United,26,Prime,Left Back,Head Injury,November,2021,6.9,6.5,0.4,Dropped,17.0,1,11.0
+Luke Shaw,Man United,26,Prime,Left Back,Hamstring Injury,January,2022,6.5,6.93,-0.43,Improved,13.0,1,1.0
+Luke Shaw,Man United,26,Prime,Left Back,Coronavirus,March,2022,6.05,5.6,0.45,Dropped,14.0,1,3.0
+Luke Shaw,Man United,26,Prime,Left Back,Leg Injury,April,2022,5.6,5.55,0.05,Dropped,41.0,1,4.0
+Luke Shaw,Man United,27,Prime,Left Back,Unknown Injury,April,2023,5.6,6.95,-1.35,Improved,13.0,1,4.0
+Brandon Williams,Man United,19,Young,Left Back,Head Injury,July,2020,6.0,5.85,0.15,Dropped,4.0,1,7.0
+Aaron Wan-Bissaka,Man United,22,Young,Right Back,Tonsillitis,September,2019,6.83,6.7,0.13,Dropped,22.0,1,9.0
+Aaron Wan-Bissaka,Man United,23,Prime,Right Back,Hand Injury,November,2021,6.03,6.3,-0.27,Improved,5.0,1,11.0
+Aaron Wan-Bissaka,Man United,23,Prime,Right Back,Ill,January,2022,6.3,6.0,0.3,Dropped,9.0,1,1.0
+Aaron Wan-Bissaka,Man United,24,Prime,Right Back,Back Problems,September,2022,,7.07,,No Change,43.0,1,9.0
+Nemanja Matic,Man United,31,Senior,Defensive Midfielder,Unknown Injury,October,2019,,7.35,,No Change,52.0,1,10.0
+Nemanja Matic,Man United,32,Senior,Defensive Midfielder,Shin Injury,February,2022,6.8,6.0,0.8,Dropped,8.0,1,2.0
+Paul Pogba,Man United,27,Prime,Central Midfielder,Ankle Problems,September,2019,6.67,6.6,0.07,Dropped,84.0,1,9.0
+Paul Pogba,Man United,28,Prime,Central Midfielder,Ankle Injury,November,2020,6.0,7.63,-1.63,Improved,17.0,1,11.0
+Paul Pogba,Man United,28,Prime,Central Midfielder,Hamstring Injury,February,2021,6.8,7.9,-1.1,Improved,42.0,1,2.0
+Paul Pogba,Man United,28,Prime,Central Midfielder,Hamstring Injury,November,2021,6.0,7.33,-1.33,Improved,87.0,1,11.0
+Scott McToMinay,Man United,23,Prime,Central Midfielder,Knee Injury,November,2019,6.97,7.0,-0.03,Improved,23.0,1,11.0
+Scott McToMinay,Man United,23,Prime,Central Midfielder,Knee Injury,December,2019,7.2,7.05,0.15,Dropped,57.0,1,12.0
+Scott McToMinay,Man United,24,Prime,Central Midfielder,Bruise,November,2020,6.77,6.8,-0.03,Improved,9.0,1,11.0
+Scott McToMinay,Man United,24,Prime,Central Midfielder,Knock,February,2021,7.77,6.45,1.32,Dropped,8.0,1,2.0
+Scott McToMinay,Man United,24,Prime,Central Midfielder,Groin Injury,August,2021,6.0,6.6,-0.6,Improved,21.0,1,8.0
+Scott McToMinay,Man United,25,Prime,Central Midfielder,Foot Injury,April,2022,6.4,6.83,-0.43,Improved,12.0,1,4.0
+Scott McToMinay,Man United,26,Prime,Central Midfielder,Unknown Injury,April,2023,6.1,6.2,-0.1,Improved,32.0,1,4.0
+Fred,Man United,27,Prime,Central Midfielder,Coronavirus,February,2022,6.0,6.0,0.0,No Change,7.0,1,2.0
+Fred,Man United,27,Prime,Central Midfielder,Hip Flexor Problems,April,2022,6.07,6.13,-0.07,Improved,21.0,1,4.0
+Bruno Fernandes,Man United,25,Prime,Attacking Midfielder,Ill,March,2022,3.93,7.4,-3.47,Improved,2.0,1,3.0
+Juan Mata,Man United,32,Senior,Attacking Midfielder,Muscle Injury,February,2021,6.0,6.6,-0.6,Improved,37.0,1,2.0
+Marcus Rashford,Man United,22,Young,Left Winger,Back Injury,January,2020,7.43,7.25,0.18,Dropped,141.0,1,1.0
+Marcus Rashford,Man United,24,Prime,Left Winger,Dead Leg,January,2022,6.63,7.1,-0.47,Improved,4.0,1,1.0
+Marcus Rashford,Man United,24,Prime,Left Winger,Bronchitis,May,2022,5.7,5.93,-0.23,Improved,15.0,1,5.0
+Marcus Rashford,Man United,24,Prime,Left Winger,Muscle Injury,April,2023,6.3,6.33,-0.03,Improved,11.0,1,4.0
+Marcus Rashford,Man United,25,Prime,Left Winger,Leg Injury,May,2023,6.33,7.1,-0.77,Improved,13.0,1,5.0
+Mason Greenwood,Man United,18,Young,Right Winger,Tonsillitis,September,2019,,7.6,,No Change,3.0,1,9.0
+Mason Greenwood,Man United,19,Young,Right Winger,Bruise,October,2020,6.55,7.4,-0.85,Improved,37.0,1,10.0
+Mason Greenwood,Man United,20,Young,Right Winger,Coronavirus,November,2021,6.43,6.17,0.27,Dropped,8.0,1,11.0
+Daniel James,Man United,22,Young,Right Winger,Knock,February,2020,6.6,6.0,0.6,Dropped,8.0,1,2.0
+Anthony Martial,Man United,24,Prime,Center Forward,Hamstring Strain,August,2019,6.55,6.5,0.05,Dropped,56.0,1,8.0
+Anthony Martial,Man United,26,Prime,Center Forward,Fitness,October,2021,6.1,7.0,-0.9,Improved,14.0,1,10.0
+Anthony Martial,Man United,26,Prime,Center Forward,Knee Injury,December,2021,7.1,7.2,-0.1,Improved,9.0,1,12.0
+Anthony Martial,Man United,27,Prime,Center Forward,Achilles Tendon Irritation,August,2022,6.1,6.8,-0.7,Improved,34.0,1,8.0
+Anthony Martial,Man United,27,Prime,Center Forward,Back Injury,October,2022,6.8,6.67,0.13,Dropped,21.0,1,10.0
+Anthony Martial,Man United,27,Prime,Center Forward,Hip Injury,February,2023,7.35,6.9,0.45,Dropped,34.0,1,2.0
+Donny Van De Beek,Man United,32,Senior,Central Midfielder,Shingles,September,2022,6.13,5.4,0.73,Dropped,51.0,1,9.0
+Edinson Cavani,Man United,34,Senior,Center Forward,Knock,December,2020,6.0,6.13,-0.13,Improved,12.0,1,12.0
+Edinson Cavani,Man United,34,Senior,Center Forward,Muscle Injury,February,2021,7.7,5.8,1.9,Dropped,14.0,1,2.0
+Edinson Cavani,Man United,34,Senior,Center Forward,Knock,March,2021,6.2,6.3,-0.1,Improved,16.0,1,3.0
+Edinson Cavani,Man United,35,Senior,Center Forward,Tendon Irritation,November,2021,6.23,6.07,0.17,Dropped,48.0,1,11.0
+Edinson Cavani,Man United,35,Senior,Center Forward,Groin Problems,February,2022,6.07,5.6,0.47,Dropped,24.0,1,2.0
+Edinson Cavani,Man United,35,Senior,Center Forward,Calf Injury,April,2022,5.6,5.6,0.0,Dropped,29.0,1,4.0
+Raphael Varane,Man United,30,Senior,Center Back,Groin Injury,October,2021,6.6,6.2,0.4,Dropped,15.0,1,10.0
+Raphael Varane,Man United,30,Senior,Center Back,Hamstring Injury,November,2021,6.27,6.53,-0.27,Improved,50.0,1,11.0
+Raphael Varane,Man United,30,Senior,Center Back,Abdominal Problems,February,2022,6.63,6.33,0.3,Dropped,4.0,1,2.0
+Raphael Varane,Man United,30,Senior,Center Back,Muscular Problems,April,2022,6.53,6.63,-0.1,Improved,18.0,1,4.0
+Raphael Varane,Man United,31,Senior,Center Back,Leg Injury,October,2022,6.9,6.8,0.1,Dropped,23.0,1,10.0
+Raphael Varane,Man United,31,Senior,Center Back,Foot Injury,April,2023,6.6,6.8,-0.2,Improved,24.0,1,4.0
+Christiano Ronaldo,Man United,39,Senior,Center Forward,Hip Flexor Problems,January,2022,7.33,7.0,0.33,Dropped,7.0,1,1.0
+Christiano Ronaldo,Man United,39,Senior,Center Forward,Hip Flexor Problems,March,2022,6.67,7.0,-0.33,Improved,4.0,1,3.0
+Christian Eriksen,Man United,33,Senior,Central Midfielder,Ankle Injury,January,2023,6.15,6.73,-0.58,Improved,67.0,1,1.0
+Marcel Sabitzer,Man United,32,Senior,Central Midfielder,Unknown Injury,March,2023,6.63,6.6,0.03,Dropped,8.0,1,3.0
+Marcel Sabitzer,Man United,32,Senior,Central Midfielder,Groin Problems,April,2023,6.25,6.65,-0.4,Improved,3.0,1,4.0
+Jadon Sancho,Man United,20,Young,Left Winger,Depression,December,2022,6.0,6.2,-0.2,Improved,36.0,1,12.0
+David Raya,Brentford,26,Prime,Goalkeeper,Knee Injury,October,2021,6.57,6.33,0.23,Dropped,102.0,1,10.0
+Kristoffer Ajer,Brentford,24,Prime,Center Back,Hamstring Injury,July,2022,7.55,7.2,0.35,Dropped,53.0,1,7.0
+Ethan Pinnock,Brentford,29,Prime,Center Back,Ankle Injury,February,2024,6.17,6.4,-0.23,Improved,63.0,1,2.0
+Christian Norgaard,Brentford,30,Senior,Defensive Midfielder ,Foot Injury,January,2024,7.1,6.8,0.3,Dropped,25.0,1,1.0
+Christian Eriksen,Brentford,30,Senior,Central Midfielder,Fitness,January,2022,,6.25,,No Change,25.0,1,1.0
+Shandon Baptiste,Brentford,24,Prime,Central Midfielder,Shoulder Injury,August,2023,,3.1,,No Change,78.0,1,8.0
+Sergi Canos,Brentford,25,Prime,Right Winger,Hamstring Injury,August,2022,,5.47,,No Change,35.0,1,8.0
+Ben Mee,Brentford,33,Senior,Center Back,Muscle Injury,September,2023,5.85,6.0,-0.15,Improved,24.0,1,9.0
+Keane Lewis-Potter,Brentford,22,Young,Left Winger,Fitness,October,2022,5.2,5.4,-0.2,Improved,20.0,1,10.0
+Keane Lewis-Potter,Brentford,22,Young,Left Winger,Ligament Injury,September,2022,5.2,5.4,-0.2,Improved,35.0,1,9.0
+Mark Flekken,Brentford,31,Senior,Goalkeeper,Cold,October,2023,6.0,6.5,-0.5,Improved,16.0,1,10.0
+Nathan Collins,Brentford,23,Prime,Center Back,Injury To The Ankle,November,2023,7.33,5.15,2.18,Dropped,27.0,1,11.0
+Richarlison,Tottenham,27,Prime,Center Forward,Calf Injury,,,5.8,7.4,-1.6,Improved,,1,
+Richarlison,Tottenham,28,Prime,Center Forward,Hamstring Injury,,,7.4,6.77,0.63,Dropped,,1,
+Richarlison,Tottenham,28,Prime,Center Forward,Groin Surgery,,,6.4,8.37,-1.97,Improved,,1,
+Sergio Reguilon,Tottenham,24,Prime,Left Back,Ankle Sprain,,,,6.47,,No Change,,1,
+Sergio Reguilon,Tottenham,24,Prime,Left Back,Muscle Injury,,,7.37,6.53,0.83,Dropped,,1,
+Sergio Reguilon,Tottenham,25,Prime,Left Back,Coronavirus,,,6.97,7.73,-0.77,Improved,,1,
+Ben Davies,Tottenham,27,Prime,Center Back,Groin Surgery,,,6.2,6.83,-0.63,Improved,,1,
+Ben Davies,Tottenham,27,Prime,Center Back,Ankle Sprain,,,5.83,6.43,-0.6,Improved,,1,
+Ben Davies,Tottenham,28,Prime,Center Back,Shin Injury,,,6.97,6.97,0.0,Dropped,,1,
+Ben Davies,Tottenham,30,Senior,Center Back,Shin Injury,,,7.07,6.27,0.8,Dropped,,1,
+Heungmin Son,Tottenham,28,Prime,Left Winger,Broken Arm,,,7.83,7.03,0.8,Dropped,,1,
+Heungmin Son,Tottenham,29,Prime,Left Winger,Hamstring Injury,,,6.47,6.67,-0.2,Improved,,1,
+Heungmin Son,Tottenham,30,Senior,Left Winger,Calf Injury,,,6.3,6.9,-0.6,Improved,,1,
+Heungmin Son,Tottenham,30,Senior,Left Winger,Hamstring Injury,,,7.37,7.4,-0.03,Improved,,1,
+Heungmin Son,Tottenham,31,Senior,Left Winger,Facial Fracture,,,6.3,7.0,-0.7,Improved,,1,
+Oliver Skipp,Tottenham,19,Young,Defensive Midfielder,Hip Injury,,,7.0,6.8,0.2,Dropped,,1,
+Oliver Skipp,Tottenham,22,Young,Defensive Midfielder,Inflammation Bone,,,6.9,7.27,-0.37,Improved,,1,
+Oliver Skipp,Tottenham,22,Young,Defensive Midfielder,Foot Injury,,,,7.0,,No Change,,1,
+Harry winks,Tottenham,24,Prime,Defensive Midfielder,Ankle Sprain,,,6.47,6.6,-0.13,Improved,,1,
+Harry winks,Tottenham,23,Prime,Defensive Midfielder,Knock,,,6.57,6.4,0.17,Dropped,,1,
+Moussa Sissoko,Tottenham,30,Senior,Central Midfielder,Knee Surgery,,,6.43,6.83,-0.4,Improved,,1,
+Lucas Moura,Tottenham,29,Prime,Right Winger,Ankle Sprain,,,7.27,6.57,0.7,Dropped,,1,
+Lucas Moura,Tottenham,30,Senior,Right Winger,Dead Leg,,,6.43,7.23,-0.8,Improved,,1,
+Lucas Moura,Tottenham,30,Senior,Right Winger,Calf Injury,,,7.57,7.33,0.23,Dropped,,1,
+Dele Alli,Tottenham,23,Prime,Attacking Midfielder,Hamstring Injury,,,6.53,6.27,0.27,Dropped,,1,
+Dele Alli,Tottenham,24,Prime,Attacking Midfielder,Muscle Injury,,,6.2,6.23,-0.03,Improved,,1,
+Dele Alli,Tottenham,25,Prime,Attacking Midfielder,Tendon Irritation,,,6.97,6.67,0.3,Dropped,,1,
+Harry Kane,Tottenham,26,Prime,Center Forward,Ill,,,6.07,6.63,-0.57,Improved,,1,
+Harry Kane,Tottenham,27,Prime,Center Forward,Torn Thigh Muscle,,,7.07,7.37,-0.3,Improved,,1,
+Harry Kane,Tottenham,27,Prime,Center Forward,Fitness,,,7.0,7.0,0.0,No Change,,1,
+Harry Kane,Tottenham,28,Prime,Center Forward,Ankle Sprain,,,6.93,6.47,0.47,Dropped,,1,
+Harry Kane,Tottenham,28,Prime,Center Forward,Ankle Sprain,,,7.03,7.0,0.03,Dropped,,1,
+Hugo Lloris,Tottenham,32,Senior,Goalkeeper,Elbow Injury,,,7.1,7.07,0.03,Dropped,,1,
+Hugo Lloris,Tottenham,33,Senior,Goalkeeper,Groin Strain,,,6.87,6.7,0.17,Dropped,,1,
+Hugo Lloris,Tottenham,36,Senior,Goalkeeper,Knee Injury,,,6.8,7.03,-0.23,Improved,,1,
+Davinson Sanchez,Tottenham,23,Prime,Center Back,Ankle Sprain,,,6.4,6.4,0.0,No Change,,1,
+Davinson Sanchez,Tottenham,25,Prime,Center Back,Quarantine,,,7.87,7.4,0.47,Dropped,,1,
+Eric Dier,Tottenham,25,Prime,Center Back,Hip Injury,,,6.4,6.9,-0.5,Improved,,1,
+Eric Dier,Tottenham,26,Prime,Center Back,Muscle Injury,,,6.53,6.83,-0.3,Improved,,1,
+Eric Dier,Tottenham,28,Prime,Center Back,Thigh Problems,,,7.2,6.7,0.5,Dropped,,1,
+Eric Dier,Tottenham,28,Prime,Center Back,Thigh Problems,,,6.5,7.53,-1.03,Improved,,1,
+Ryan Sessegnon,Tottenham,21,Young,Left Back,Bruise,,,,6.67,,No Change,,1,
+Ryan Sessegnon,Tottenham,21,Young,Left Back,Muscle Injury,,,7.45,6.93,0.52,Dropped,,1,
+Ryan Sessegnon,Tottenham,22,Young,Left Back,Hamstring Injury,,,6.57,7.5,-0.93,Improved,,1,
+Emerson Royal,Tottenham,22,Young,Right Back,Unknown Surgery,,,6.63,6.93,-0.3,Improved,,1,
+Emerson Royal,Tottenham,24,Prime,Right Back,Knee Injury,,,7.33,6.6,0.73,Dropped,,1,
+Matt Doherty,Tottenham,28,Prime,Right Back,Coronavirus,,,7.2,6.35,0.85,Dropped,,1,
+Matt Doherty,Tottenham,29,Prime,Right Back,Unknown Injury,,,6.35,5.97,0.38,Dropped,,1,
+Matt Doherty,Tottenham,29,Prime,Right Back,Muscle Injury,,,6.8,7.33,-0.53,Improved,,1,
+Matt Doherty,Tottenham,29,Prime,Right Back,Unknown Injury,,,6.53,7.13,-0.6,Improved,,1,
+Matt Doherty,Tottenham,30,Senior,Right Midfielder,Internal Ligament Tear,,,6.63,5.77,0.87,Dropped,,1,
+Pierre Emile Hojberg,Tottenham,28,Prime,Defensive Midfielder,Bruise,,,6.7,6.43,0.27,Dropped,,1,
+Rodrigo Bentacur,Tottenham,25,Prime,Defensive Midfielder,Ankle Injury,,,6.4,7.47,-1.07,Improved,,1,
+Rodrigo Bentacur,Tottenham,25,Prime,Defensive Midfielder,Head Injury,,,6.87,7.23,-0.37,Improved,,1,
+Rodrigo Bentacur,Tottenham,25,Prime,Defensive Midfielder,Adductor Pain,,,7.13,5.63,1.5,Dropped,,1,
+Rodrigo Bentacur,Tottenham,26,Prime,Defensive Midfielder,Cruciate Ligament Tear,,,6.9,5.87,1.03,Dropped,,1,
+Rodrigo Bentacur,Tottenham,26,Prime,Defensive Midfielder,Torn Ankle Ligaments,,,6.1,6.73,-0.63,Improved,,1,
+Tanguy Ndombele,Tottenham,22,Young,Central Midfielder ,Hamstring Injury,,,7.6,6.77,0.83,Dropped,,1,
+Tanguy Ndombele,Tottenham,22,Young,Central Midfielder ,Groin Strain,,,6.07,6.7,-0.63,Improved,,1,
+Tanguy Ndombele,Tottenham,22,Young,Central Midfielder ,Groin Strain,,,6.7,6.53,0.17,Dropped,,1,
+Tanguy Ndombele,Tottenham,23,Prime,Central Midfielder ,Groin Strain,,,6.75,6.57,0.18,Dropped,,1,
+Tanguy Ndombele,Tottenham,23,Prime,Central Midfielder ,Knock,,,6.17,6.1,0.07,Dropped,,1,
+Tanguy Ndombele,Tottenham,23,Prime,Central Midfielder ,Unknown Injury,,,6.57,6.57,0.0,Dropped,,1,
+Giovani Lo Celso,Tottenham,23,Prime,Central Midfielder ,Hip Injury,,,5.87,6.43,-0.57,Improved,,1,
+Giovani Lo Celso,Tottenham,24,Prime,Central Midfielder ,Hamstring Injury,,,6.77,6.5,0.27,Dropped,,1,
+Giovani Lo Celso,Tottenham,24,Prime,Central Midfielder ,Muscle Strain,,,6.5,6.13,0.37,Dropped,,1,
+Giovani Lo Celso,Tottenham,24,Prime,Central Midfielder ,Hamstring Injury,,,6.55,6.23,0.32,Dropped,,1,
+Giovani Lo Celso,Tottenham,26,Prime,Central Midfielder ,Quarantine,,,6.37,6.67,-0.3,Improved,,1,
+Giovani Lo Celso,Tottenham,25,Prime,Central Midfielder ,Knee Injury,,,6.67,5.8,0.87,Dropped,,1,
+Giovani Lo Celso,Tottenham,25,Prime,Central Midfielder ,Shin Injury,,,,5.85,,No Change,,1,
+Giovani Lo Celso,Tottenham,27,Prime,Central Midfielder ,Hamstring Injury,,,,7.3,,No Change,,1,
+Giovani Lo Celso,Tottenham,27,Prime,Central Midfielder ,Unknown Injury,,,7.07,7.23,-0.17,Improved,,1,
+Giovani Lo Celso,Tottenham,28,Prime,Central Midfielder ,Muscle Strain,,,6.7,8.1,-1.4,Improved,,1,
+Bryan Gil,Tottenham,20,Young,Left Winger,Coronavirus,,,,5.67,,No Change,,1,
+Bryan Gil,Tottenham,21,Young,Left Winger,Knock,,,,5.93,,No Change,,1,
+Bryan Gil,Tottenham,22,Young,Left Winger,Inflammation Of Pubic Bone,,,7.07,6.5,0.57,Dropped,,1,
+Nick Pope,Burnley,28,Prime,Goalkeeper,Head Injury,November,2020,7.13,7.83,-0.7,Improved,7.0,1,11.0
+Nick Pope,Burnley,28,Prime,Goalkeeper,Knee Surgery,May,2021,6.6,6.47,0.13,Dropped,49.0,1,5.0
+Nick Pope,Burnley,29,Prime,Goalkeeper,Coronavirus,December,2021,7.33,7.33,0.0,No Change,8.0,1,12.0
+James Tarkowski,Burnley,27,Prime,Center Back,Toe Injury,September,2020,6.53,6.67,-0.13,Improved,13.0,1,9.0
+Ben Mee,Burnley,30,Senior,Center Back,Hamstring Strain,July,2020,6.53,6.17,0.37,Dropped,125.0,1,7.0
+Ben Mee,Burnley,31,Senior,Center Back,Head Injury,February,2021,6.17,6.0,0.17,Dropped,7.0,1,2.0
+Erik Pieters,Burnley,32,Senior,Center Back,Calf Injury,October,2020,6.9,5.8,1.1,Dropped,33.0,1,10.0
+Charlie Taylor,Burnley,26,Prime,Left Back,Hamstring Strain,December,2019,6.47,6.37,0.1,Dropped,19.0,1,12.0
+Charlie Taylor,Burnley,26,Prime,Left Back,Hamstring Strain,February,2020,6.73,6.83,-0.1,Improved,11.0,1,2.0
+Charlie Taylor,Burnley,26,Prime,Left Back,Hamstring Strain,July,2020,6.3,6.0,0.3,Dropped,62.0,1,7.0
+Charlie Taylor,Burnley,27,Prime,Left Back,Hamstring Strain,December,2020,6.37,6.0,0.37,Dropped,47.0,1,12.0
+Charlie Taylor,Burnley,28,Prime,Left Back,Bruise On Ankle,January,2022,6.37,6.15,0.22,Dropped,49.0,1,1.0
+Matthew Lowton,Burnley,30,Senior,Right Back,Knee Injury,February,2020,5.93,6.1,-0.17,Improved,128.0,1,2.0
+Matthew Lowton,Burnley,31,Senior,Right Back,Ankle And Knee Injury,June,2020,6.1,6.53,-0.43,Improved,119.0,1,6.0
+Phil Bardsley,Burnley,34,Senior,Right Back,Knock,December,2019,6.0,6.47,-0.47,Improved,8.0,1,12.0
+Phil Bardsley,Burnley,34,Senior,Right Back,Back Injury,January,2020,6.3,6.57,-0.27,Improved,12.0,1,1.0
+Jack Cork,Burnley,30,Senior,Defensive Midfielder,Shoulder Injury,September,2019,6.63,6.5,0.13,Dropped,26.0,1,9.0
+Jack Cork,Burnley,31,Senior,Defensive Midfielder,Broken Foot,June,2020,6.03,5.5,0.53,Dropped,166.0,1,6.0
+Ashley Westwood,Burnley,30,Senior,Defensive Midfielder,Groin Injury,November,2019,6.57,6.83,-0.27,Improved,19.0,1,11.0
+Josh Brownhill,Burnley,24,Prime,Central Midfielder,Ankle Injury,January,2021,6.23,6.2,0.03,Dropped,15.0,1,1.0
+Josh Brownhill,Burnley,26,Prime,Central Midfielder,Coronavirus,December,2021,6.55,6.3,0.25,Dropped,24.0,1,12.0
+Robbie Brady,Burnley,28,Prime,Left Midfielder,Chest Injury,September,2020,6.0,6.8,-0.8,Improved,11.0,1,9.0
+Robbie Brady,Burnley,28,Prime,Left Midfielder,Hamstring Injury,November,2020,6.8,6.77,0.03,Dropped,10.0,1,11.0
+Robbie Brady,Burnley,28,Prime,Left Midfielder,Hamstring Injury,December,2020,6.37,6.27,0.1,Dropped,6.0,1,12.0
+Dwight McNeil,Burnley,21,Young,Left Winger,Groin Injury,December,2020,6.0,6.5,-0.5,Improved,20.0,1,12.0
+Jóhann Berg Gudmundsson,Burnley,28,Prime,Right Winger,Calf Strain,August,2019,6.13,5.9,0.23,Dropped,32.0,1,8.0
+Jóhann Berg Gudmundsson,Burnley,29,Prime,Right Winger,Hamstring Strain,January,2020,,6.7,,No Change,181.0,1,1.0
+Jóhann Berg Gudmundsson,Burnley,29,Prime,Right Winger,Knee Injury,September,2020,,5.83,,No Change,14.0,1,9.0
+Jóhann Berg Gudmundsson,Burnley,30,Senior,Right Winger,Hamstring Strain,October,2020,5.83,6.1,-0.27,Improved,8.0,1,10.0
+Jóhann Berg Gudmundsson,Burnley,30,Senior,Right Winger,Hamstring Strain,November,2020,6.1,5.85,0.25,Dropped,43.0,1,11.0
+Jóhann Berg Gudmundsson,Burnley,30,Senior,Right Winger,Groin Strain,February,2021,6.77,6.47,0.3,Dropped,14.0,1,2.0
+Jóhann Berg Gudmundsson,Burnley,32,Senior,Right Winger,Muscle Injury,September,2023,5.7,6.6,-0.9,Improved,29.0,1,9.0
+Aaron Lennon,Burnley,32,Senior,Right Winger,Ill,December,2019,5.9,5.3,0.6,Dropped,19.0,1,12.0
+Chris Wood,Burnley,27,Prime,Center Forward,Hamstring Injury,October,2019,6.5,6.5,0.0,No Change,19.0,1,10.0
+Chris Wood,Burnley,28,Prime,Center Forward,Hamstring Strain,February,2020,5.9,7.1,-1.2,Improved,12.0,1,2.0
+Chris Wood,Burnley,28,Prime,Center Forward,Calf Injury,June,2020,7.1,5.1,2.0,Dropped,29.0,1,6.0
+Chris Wood,Burnley,29,Prime,Center Forward,Hamstring Strain,February,2021,6.03,6.65,-0.62,Improved,17.0,1,2.0
+Ashley Barnes,Burnley,29,Prime,Center Forward,Groin Injury,October,2019,5.5,6.2,-0.7,Improved,8.0,1,10.0
+Ashley Barnes,Burnley,30,Senior,Center Forward,Groin Injury,December,2019,5.7,6.25,-0.55,Improved,8.0,1,12.0
+Ashley Barnes,Burnley,30,Senior,Center Forward,Groin Surgery,January,2020,5.3,5.83,-0.53,Improved,271.0,1,1.0
+Ashley Barnes,Burnley,31,Senior,Center Forward,Bruise,January,2021,6.07,6.23,-0.17,Improved,9.0,1,1.0
+Ashley Barnes,Burnley,32,Senior,Center Forward,Groin Injury,November,2021,,6.0,,No Change,80.0,1,11.0
+Jay Rodríguez,Burnley,30,Senior,Center Forward,Ill,January,2020,5.1,6.57,-1.47,Improved,13.0,1,1.0
+Jay Rodríguez,Burnley,30,Senior,Center Forward,Hamstring Strain,June,2020,6.37,6.97,-0.6,Improved,8.0,1,6.0
+Jay Rodríguez,Burnley,31,Senior,Center Forward,Ankle Injury,September,2020,6.0,6.0,0.0,No Change,25.0,1,9.0
+Jay Rodríguez,Burnley,32,Senior,Center Forward,Knee Injury,December,2020,5.35,5.7,-0.35,Improved,14.0,1,12.0
+Matej Vydra,Burnley,27,Prime,Center Forward,Hip Injury,November,2019,,6.1,,No Change,30.0,1,11.0
+Matej Vydra,Burnley,28,Prime,Center Forward,Back Injury,December,2020,5.3,5.13,0.17,Dropped,-342.0,1,12.0
+Matej Vydra,Burnley,28,Prime,Center Forward,Hamstring Injury,February,2021,5.9,5.9,-0.0,Improved,8.0,1,2.0
+Matej Vydra,Burnley,29,Prime,Center Forward,Groin Surgery And Elbow Injury,February,2022,5.83,5.67,0.17,Dropped,25.0,1,2.0
+Connor Roberts,Burnley,26,Prime,Right Back,Infection,December,2021,,6.57,,No Change,32.0,1,12.0
+Maxwel Cornet,Burnley,25,Prime,Left Winger,Hamstring Injury,December,2021,5.97,6.45,-0.48,Improved,27.0,1,12.0
+Maxwel Cornet,Burnley,25,Prime,Left Winger,Knee Problems,April,2022,5.87,5.6,0.27,Dropped,13.0,1,4.0
+Jordan Beyer,Burnley,23,Prime,Center Back,Meniscus Injury,October,2023,6.67,6.17,0.5,Dropped,26.0,1,10.0
+Hjalmar Ekdal,Burnley,23,Prime,Center Back,Knee Injury,August,2023,,6.13,,No Change,80.0,1,8.0
+Mike Trésor,Burnley,24,Prime,Left Winger,Hamstring Injury,August,2023,,5.8,,No Change,38.0,1,8.0
+Nathan Redmond,Burnley,29,Prime,Right Winger,Unknown Injur,September,2023,5.7,5.67,0.03,Dropped,35.0,1,9.0
+Lyle Foster,Burnley,23,Prime,Center Forward,Depression,November,2023,6.17,5.73,0.43,Dropped,31.0,1,11.0
+Vitinho,Burnley,24,Prime,Right Back,Knee Injury,August,2023,5.5,5.53,-0.03,Improved,26.0,1,8.0
+Jordan Pickford,Everton,26,Prime,Goalkeeper,Chest Injury,January,2021,6.23,6.97,-0.73,Improved,21.0,1,1.0
+Jordan Pickford,Everton,27,Prime,Goalkeeper,Shoulder Injury,September,2021,7.1,6.63,0.47,Dropped,14.0,1,9.0
+Jordan Pickford,Everton,28,Prime,Goalkeeper,Thigh Problems,September,2022,7.43,6.47,0.97,Dropped,18.0,1,9.0
+Michael Keane,Everton,27,Prime,Center Back,Neck Injury,January,2020,6.9,6.5,0.4,Dropped,3.0,1,1.0
+Yerry Mina,Everton,25,Prime,Center Back,Knee Injury,October,2019,6.63,6.27,0.37,Dropped,13.0,1,10.0
+Yerry Mina,Everton,25,Prime,Center Back,Bruise,December,2019,5.9,7.03,-1.13,Improved,8.0,1,12.0
+Yerry Mina,Everton,25,Prime,Center Back,Muscle Injury,June,2020,7.13,6.7,0.43,Dropped,,1,6.0
+Yerry Mina,Everton,26,Prime,Center Back,Calf Injury,February,2021,6.23,6.93,-0.7,Improved,22.0,1,2.0
+Yerry Mina,Everton,27,Prime,Center Back,Thigh Problems,October,2021,6.6,6.3,0.3,Dropped,39.0,1,10.0
+Yerry Mina,Everton,27,Prime,Center Back,Hamstring Injury,February,2022,6.3,5.9,0.4,Dropped,62.0,1,2.0
+Yerry Mina,Everton,27,Prime,Center Back,Ankle Injury,August,2022,5.8,7.1,-1.3,Improved,86.0,1,8.0
+Mason Holgate,Everton,22,Young,Center Back,Calf Injury,July,2020,6.87,6.2,0.67,Dropped,8.0,1,7.0
+Mason Holgate,Everton,22,Young,Center Back,Ankle Injury,September,2020,,7.07,,No Change,49.0,1,9.0
+Lucas Digne,Everton,26,Prime,Left Back,Calf Injury,February,2020,7.23,7.03,0.2,Dropped,27.0,1,2.0
+Lucas Digne,Everton,27,Prime,Left Back,Ankle Injury,November,2020,7.03,6.7,0.33,Dropped,46.0,1,11.0
+Djibril Sidibé,Everton,27,Prime,Right Back,Unknown Injury,December,2019,7.03,7.17,-0.13,Improved,3.0,1,12.0
+Djibril Sidibé,Everton,27,Prime,Right Back,Foot Injury,June,2020,6.05,6.4,-0.35,Improved,10.0,1,6.0
+Séamus Coleman,Everton,30,Senior,Right Back,Hamstring Injury,November,2019,,6.55,,No Change,20.0,1,11.0
+Séamus Coleman,Everton,30,Senior,Right Back,Hamstring Strain,March,2020,6.15,6.97,-0.82,Improved,104.0,1,3.0
+Séamus Coleman,Everton,31,Senior,Right Back,Muscle Injury,October,2020,6.67,6.15,0.52,Dropped,62.0,1,10.0
+Séamus Coleman,Everton,31,Senior,Right Back,Hamstring Injury,September,2021,6.23,5.83,0.4,Dropped,28.0,1,9.0
+Séamus Coleman,Everton,33,Senior,Right Back,Knee Injury,May,2023,6.1,6.8,-0.7,Improved,206.0,1,5.0
+Morgan Schneiderlin,Everton,29,Prime,Defensive Midfielder,Calf Strain,December,2019,6.3,7.7,-1.4,Improved,27.0,1,12.0
+André Gomes,Everton,26,Prime,Central Midfielder,Bruised Ribs,September,2019,6.7,6.4,0.3,Dropped,32.0,1,9.0
+André Gomes,Everton,26,Prime,Central Midfielder,Ankle Injury,November,2019,6.4,6.4,-0.0,Improved,109.0,1,11.0
+André Gomes,Everton,27,Prime,Central Midfielder,Bruise,September,2020,6.73,5.6,1.13,Dropped,19.0,1,9.0
+André Gomes,Everton,28,Prime,Central Midfielder,Calf Injury,September,2021,,5.9,,No Change,75.0,1,9.0
+André Gomes,Everton,29,Prime,Central Midfielder,Fitness,August,2023,,5.75,,No Change,112.0,1,8.0
+Tom Davies,Everton,21,Young,Central Midfielder,Ill,January,2020,6.57,6.0,0.57,Dropped,5.0,1,1.0
+Tom Davies,Everton,22,Young,Central Midfielder,Bruise,October,2020,7.0,6.1,0.9,Dropped,7.0,1,10.0
+Fabian Delph,Everton,28,Prime,Central Midfielder,Calf Injury,August,2019,,6.3,,No Change,28.0,1,8.0
+Fabian Delph,Everton,28,Prime,Central Midfielder,Muscle Injury,October,2019,6.47,7.0,-0.53,Improved,18.0,1,10.0
+Fabian Delph,Everton,28,Prime,Central Midfielder,Muscle Injury,November,2019,7.0,6.75,0.25,Dropped,46.0,1,11.0
+Fabian Delph,Everton,29,Prime,Central Midfielder,Calf Injury,June,2020,6.3,7.0,-0.7,Improved,113.0,1,6.0
+Fabian Delph,Everton,29,Prime,Central Midfielder,Bruise,November,2020,7.0,5.6,1.4,Dropped,25.0,1,11.0
+Fabian Delph,Everton,30,Senior,Central Midfielder,Shoulder Injury,August,2021,,6.0,,No Change,59.0,1,8.0
+Fabian Delph,Everton,31,Senior,Central Midfielder,Hamstring Injury,January,2022,,7.0,,No Change,74.0,1,1.0
+Gylfi Sigurdsson,Everton,30,Senior,Attacking Midfielder,Knock,December,2019,6.47,6.8,-0.33,Improved,12.0,1,12.0
+Gylfi Sigurdsson,Everton,30,Senior,Attacking Midfielder,Groin Injury,January,2020,6.6,6.5,0.1,Dropped,19.0,1,1.0
+Alex Iwobi,Everton,23,Prime,Left Winger,Hamstring Injury,December,2019,5.9,6.1,-0.2,Improved,35.0,1,12.0
+Alex Iwobi,Everton,25,Prime,Left Winger,Calf Injury,October,2021,6.5,6.7,-0.2,Improved,12.0,1,10.0
+Bernard,Everton,27,Prime,Left Winger,Ill,September,2019,5.8,6.3,-0.5,Improved,8.0,1,9.0
+Bernard,Everton,27,Prime,Left Winger,Knee Injury,October,2019,6.3,6.3,0.0,No Change,34.0,1,10.0
+Bernard,Everton,27,Prime,Left Winger,Knee Injury,January,2020,6.3,6.5,-0.2,Improved,3.0,1,1.0
+Theo Walcott,Everton,30,Senior,Right Winger,Head Injury,September,2019,5.0,6.17,-1.17,Improved,39.0,1,9.0
+Theo Walcott,Everton,30,Senior,Right Winger,Knock,November,2019,5.6,5.5,0.1,Dropped,10.0,1,11.0
+Theo Walcott,Everton,30,Senior,Right Winger,Calf Strain,December,2019,5.5,6.1,-0.6,Improved,17.0,1,12.0
+Theo Walcott,Everton,30,Senior,Right Winger,Knee Injury,February,2020,6.53,5.4,1.13,Dropped,19.0,1,2.0
+Theo Walcott,Everton,31,Senior,Right Winger,Abdominal Muscle Strain,June,2020,5.4,5.95,-0.55,Improved,30.0,1,6.0
+Richarlison,Everton,22,Young,Center Forward,Knee Injury,January,2020,7.5,7.27,0.23,Dropped,18.0,1,1.0
+Richarlison,Everton,23,Prime,Center Forward,Head Injury,December,2020,6.6,6.1,0.5,Dropped,26.0,1,12.0
+Richarlison,Everton,24,Prime,Center Forward,Knee Injury,September,2021,6.13,5.8,0.33,Dropped,39.0,1,9.0
+Richarlison,Everton,24,Prime,Center Forward,Calf Injury,December,2021,6.23,5.95,0.28,Dropped,31.0,1,12.0
+Moise Kean,Everton,20,Young,Center Forward,Knee Injury,July,2020,,7.8,,No Change,8.0,1,7.0
+Dominic Calvert-Lewin,Everton,23,Prime,Center Forward,Muscle Injury,January,2021,6.13,6.57,-0.43,Improved,24.0,1,1.0
+Dominic Calvert-Lewin,Everton,23,Prime,Center Forward,Hamstring Injury,February,2021,7.0,6.4,0.6,Dropped,8.0,1,2.0
+Dominic Calvert-Lewin,Everton,24,Prime,Center Forward,Broken Toe,August,2021,6.93,5.4,1.53,Dropped,125.0,1,8.0
+Dominic Calvert-Lewin,Everton,25,Prime,Center Forward,Hamstring Injury,April,2022,5.5,7.33,-1.83,Improved,18.0,1,4.0
+Dominic Calvert-Lewin,Everton,25,Prime,Center Forward,Knee Injury,August,2022,,5.47,,No Change,60.0,1,8.0
+Dominic Calvert-Lewin,Everton,25,Prime,Center Forward,Hamstring Injury,November,2022,6.53,5.5,1.03,Dropped,53.0,1,11.0
+Dominic Calvert-Lewin,Everton,25,Prime,Center Forward,Hamstring Injury,February,2023,6.03,6.37,-0.33,Improved,75.0,1,2.0
+Dominic Calvert-Lewin,Everton,26,Prime,Center Forward,Fitness And Broken Cheekbone,August,2023,,7.4,,No Change,44.0,1,8.0
+Dominic Calvert-Lewin,Everton,27,Prime,Center Forward,Ill,April,2024,6.97,6.9,0.07,Dropped,6.0,1,4.0
+Cenk Tosun,Everton,28,Prime,Center Forward,Groin Injury,October,2019,5.1,6.15,-1.05,Improved,9.0,1,10.0
+Ben Godfrey,Everton,22,Young,Center Back,Hamstring Injury,October,2020,5.8,6.5,-0.7,Improved,11.0,1,10.0
+Ben Godfrey,Everton,24,Prime,Center Back,Broken Fibula,August,2022,6.0,6.17,-0.17,Improved,91.0,1,8.0
+Allan,Everton,29,Prime,Defensive Midfielder,Groin Injury,October,2020,6.9,6.37,0.53,Dropped,14.0,1,10.0
+Allan,Everton,29,Prime,Defensive Midfielder,Muscle Injury,December,2020,6.53,6.65,-0.12,Improved,58.0,1,12.0
+Abdoulaye Doucouré,Everton,28,Prime,Central Midfielder,Foot Injury,March,2021,6.5,6.83,-0.33,Improved,64.0,1,3.0
+Abdoulaye Doucouré,Everton,28,Prime,Central Midfielder,Stress Reaction Of The Bone,October,2021,7.47,6.17,1.3,Dropped,42.0,1,10.0
+Abdoulaye Doucouré,Everton,30,Senior,Central Midfielder,Thigh Problems,December,2023,6.83,5.93,0.9,Dropped,26.0,1,12.0
+James Rodríguez,Everton,29,Prime,Attacking Midfielder,Groin Injury,October,2020,7.87,6.77,1.1,Dropped,11.0,1,10.0
+James Rodríguez,Everton,29,Prime,Attacking Midfielder,Calf Strain,December,2020,7.17,7.0,0.17,Dropped,25.0,1,12.0
+James Rodríguez,Everton,29,Prime,Attacking Midfielder,Calf Injury,February,2021,6.7,7.3,-0.6,Improved,38.0,1,2.0
+James Rodríguez,Everton,29,Prime,Attacking Midfielder,Calf Injury,May,2021,6.7,7.1,-0.4,Improved,13.0,1,5.0
+Vitaliy Mykolenko,Everton,22,Young,Left Back,Coronavirus,February,2022,5.0,5.6,-0.6,Improved,9.0,1,2.0
+Vitaliy Mykolenko,Everton,24,Prime,Left Back,Groin Injury,December,2023,6.67,6.37,0.3,Dropped,7.0,1,12.0
+Vitaliy Mykolenko,Everton,24,Prime,Left Back,Cold,March,2024,5.83,5.97,-0.13,Improved,4.0,1,3.0
+Nathan Patterson,Everton,19,Young,Right Back,Ankle Injury,September,2022,6.73,5.6,1.13,Dropped,35.0,1,9.0
+Andros Townsend,Everton,30,Senior,Right Winger,Broken Foot,December,2021,5.83,5.9,-0.07,Improved,23.0,1,12.0
+Amadou Onana,Everton,21,Young,Defensive Midfielder,Leg Injury,April,2023,6.43,6.55,-0.12,Improved,10.0,1,4.0
+Amadou Onana,Everton,22,Young,Defensive Midfielder,Calf Injury,November,2023,6.4,7.15,-0.75,Improved,27.0,1,11.0
+Dwight McNeil,Everton,23,Prime,Left Winger,Ankle Injury,,,,6.5,,No Change,,1,
+Ashley Young,Everton,38,Senior,Left Back,Muscle Injury,December,2023,6.53,5.7,0.83,Dropped,45.0,1,12.0
+Jack Harrison,Everton,26,Prime,Right Winger,Hip Injury,July,2023,,6.95,,No Change,82.0,1,7.0
+Beto,Everton,25,Prime,Center Forward,Knee Injury,November,2023,,5.75,,No Change,5.0,1,11.0
