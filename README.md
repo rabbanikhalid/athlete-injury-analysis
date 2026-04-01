@@ -31,7 +31,7 @@ The objective is to uncover insights into injury trends, recovery patterns, and 
 
 ### Main Dashboard
 <p align="center">
-  <img src="dashboard.png" width="800"/>
+  <img src="dashboard.png"/>
 </p>
 
 ### Key Insights Page
